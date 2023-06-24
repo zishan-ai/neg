@@ -1,0 +1,512 @@
+{
+  "Washing Machine": {
+    "description": {
+      "LG WM9000HVA": " This washing machine has a 5.2 cubic feet capacity and is equipped with TurboWash technology, allowing for quick and efficient cleaning. It also features steam cleaning and has a SmartThinQ app for remote control and monitoring.",
+      "Samsung WF45K6500AV": " With a 4.5 cubic feet capacity and AddWash door, this washing machine is perfect for families. It also features steam cleaning, vibration reduction technology, and Smart Control for remote operation.",
+      "Whirlpool WFW92HEFW": " This washing machine has a 4.5 cubic feet capacity and features Load & Go technology for automatic detergent dispensing. It also has Adaptive Wash technology and a Quick Wash cycle for faster cleaning.",
+      "Maytag MHW6630HW": " With a 4.8 cubic feet capacity and PowerWash cycle, this washing machine is perfect for heavy-duty cleaning. It also features an Overnight Wash & Dry cycle, Fresh Hold option, and steam cleaning.",
+      "Electrolux EFLS627UTT": " This washing machine has a 4.4 cubic feet capacity and is equipped with SmartBoost technology, which premixes detergent and water for more effective cleaning. It also features Perfect Steam and 15-Minute Fast Wash cycles.",
+      "GE GTW840CPNDG": " With a 5.2 cubic feet capacity and Deep Fill option, this washing machine is perfect for larger loads. It also features SmartDispense technology for automatic detergent dispensing and WiFi Connect for remote control.",
+      "Bosch WAT28400UC": " This washing machine has a 2.2 cubic feet capacity and features EcoSilence motor for quiet operation. It also has an AquaStop Plus leak protection system and ActiveWater technology for efficient water usage.",
+      "Amana NTW4516FW": " With a 3.5 cubic feet capacity and Dual Action agitator, this washing machine is great for efficient cleaning. It also features Late Lid Lock for convenience and Deep Water Wash for larger loads.",
+      "Kenmore Elite 41072": " This washing machine has a 5.2 cubic feet capacity and features Smart Motion Technology for customized cleaning. It also has a Cold Clean cycle and Accela-Wash option for faster cleaning.",
+      "Speed Queen TR3000WN": " With a 3.2 cubic feet capacity and durable design, this washing machine is perfect for commercial or heavy-duty use. It also features a stainless steel tub and 210-degree agitator for thorough cleaning."
+    },
+    "features": "Load Capapity, Wash technology, Dimensions",
+    "price": "7000 - 30000",
+    "accessories": {
+      "Mesh Laundry Bags": {
+        "Simple Houseware Heavy-Duty 3-Bag Laundry Sorter": " This set includes three mesh laundry bags of different sizes (large, medium, and small) for sorting and washing delicates, bras, socks, and more.",
+        "Gogooda 7-Piece Mesh Laundry Bag Set": " This set includes seven mesh laundry bags of varying sizes, plus a bonus bra washing bag. The bags are color-coded for easy sorting and washing, and the set also comes with a hanging storage bag.",
+        "Kimmama Set of 7 Mesh Laundry Bags": " This set includes seven mesh laundry bags in different sizes, each with a zipper closure and a tag for labeling. The bags are made of durable, breathable mesh and can be used for washing delicates, baby clothes, and more.",
+        "Household Essentials Grooming Toiletry Travel Bag": " This mesh bag is designed for travel and can be used to store toiletries, cosmetics, or other small items. It has a zippered closure and a loop handle for easy carrying.",
+        "Handy Laundry Mesh Wash Bag Set": " This set includes four mesh laundry bags of varying sizes, including a large bag for sweaters and jackets, a medium bag for bras and underwear, and two small bags for socks and other small items. The bags have a zipper closure and can be used for washing or storing clothes."
+      },
+      "Washer Cleaner": {
+        "Affresh Washer Machine Cleaner": " This cleaner uses a powerful oxygenated bleach formula to remove odor-causing residue and buildup from your washing machine. It comes in tablet form and is designed to be used once a month.",
+        "Tide Washing Machine Cleaner": " This cleaner is designed to penetrate and lift away dirt and residue from the hidden and hard-to-reach areas in your washing machine. It works on both high-efficiency and standard machines and can be used once a month.",
+        "OxiClean Washing Machine Cleaner": " This cleaner uses a combination of oxygenated bleach and citric acid to clean your washing machine and remove odor-causing residue. It's safe for use with all washing machine types and can be used once a month.",
+        "Clorox Washing Machine Cleaner": " This cleaner uses a powerful formula to eliminate odor-causing bacteria and residue from your washing machine. It's safe for use with all washing machine types and can be used once a month.",
+        "Glisten Washer Magic Cleaner": " This cleaner uses a powerful citric acid formula to remove tough buildup and residue from your washing machine. It's safe for use with all washing machine types and can be used once a month."
+      },
+      "Dryer Balls": {
+        "Wool Dryer Balls": " These are made of 100% wool and are environmentally friendly. They help to reduce static cling, soften clothes, and decrease drying time by up to 25%.",
+        "Plastic Dryer Balls": " These are made of hard plastic and have small nubs that help to lift and separate clothes. They are also designed to reduce static cling and shorten drying time.",
+        "Rubber Dryer Balls": " These are made of soft rubber and work by bouncing around in the dryer, separating clothes and allowing hot air to circulate more efficiently. They help to reduce wrinkles and static cling.",
+        "Hedgehog Dryer Balls": " These cute dryer balls are shaped like hedgehogs and are made of soft rubber. They help to separate clothes, reduce drying time, and fluff up fabrics to reduce wrinkles.",
+        "Silicone Dryer Balls": " These are made of soft, flexible silicone and are designed to be gentle on fabrics. They help to reduce static cling and shorten drying time. They are also easy to clean and can be reused over and over again."
+      },
+      "Ironing Board": {
+        "Brabantia Ironing Board": " This ironing board has a large surface area with dimensions of 49 x 18 inches, making it perfect for larger items. It also has a height-adjustable frame that can be set up to 38 inches high, making it comfortable to use for people of different heights. The board has a durable cotton cover and a thick felt pad for comfortable ironing.",
+        "Minky Ergo Ironing Board": " This ironing board has a unique design that makes it ergonomically comfortable to use. It has a curved surface that allows you to iron your clothes without having to constantly adjust your body position. The board has a stable frame with adjustable legs, so you can set it up to your desired height.",
+        "Homz Durabilt Ironing Board": " This ironing board is designed for heavy-duty use. It has a steel frame and a large surface area of 54 x 14 inches, making it suitable for larger items. The board also has an adjustable height feature that can be set up to 39 inches. It has a cotton cover with a thick fiber pad for comfortable ironing.",
+        "Household Essentials Euro-Style Ironing Board": " This ironing board has a sleek, modern design and is perfect for small apartments or homes with limited storage space. It has a compact size of 35 x 13 inches, making it easy to store in a closet or under a bed. The board has adjustable height legs, a built-in iron rest, and a cotton cover with a fiber pad.",
+        "Whitmor Tabletop Ironing Board": " This ironing board is ideal for small spaces or for travel. It has a compact size of 12 x 30 inches and can easily fit on top of a table or countertop. The board has foldable legs for easy storage and transport. It also has a cotton cover with a foam pad for comfortable ironing."
+      },
+      "Drying Rack": {
+        "AmazonBasics Foldable Drying Rack": " This drying rack is made of sturdy steel and has a durable waterproof coating. It has 11 drying rods and can hold up to 32 pounds of laundry. It can be folded flat for easy storage when not in use.",
+        "Honey-Can-Do Heavy Duty Gullwing Drying Rack": " This drying rack is made of rust-resistant steel and has a large drying area with 4 sections. It can hold up to 46 garments at once and can be easily folded for storage.",
+        "Polder Wall-Mount 24-Inch Accordion Clothes Dryer": " This drying rack is mounted to the wall and can be easily expanded and contracted as needed. It has 5 bars for drying clothes and can hold up to 22 pounds of laundry.",
+        "Leifheit Quartett Over-The-Door Drying Rack": " This drying rack hangs over the door and can hold up to 44 pounds of laundry. It has 4 bars that can be adjusted for different drying needs and can be folded up when not in use.",
+        "Brabantia WallFix Wall-Mounted Clothesline": " This drying rack is mounted to the wall and can be easily opened and closed with one hand. It has 24 meters of drying space and can hold up to 20 kilograms of laundry. It folds neatly against the wall when not in use."
+      },
+      "Storage Cart": {
+        "Sterilite 3-Drawer Cart": " This cart has three clear drawers that allow you to see the contents inside. The frame is made of durable plastic and the cart has wheels for easy movement.",
+        "Honey-Can-Do Rolling Storage Cart": " This cart has three tiers of shelves, each with a metal mesh base for good ventilation. The cart has a powder-coated finish for durability and is equipped with locking casters.",
+        "Seville Classics 10-Drawer Organizer Cart": " This cart has ten drawers in varying sizes, making it ideal for organizing small items. The cart is made of metal and comes with four wheels, two of which lock.",
+        "Mind Reader Rolling Storage Cart": " This cart has three mesh wire baskets that are adjustable and removable for easy cleaning. The cart is made of metal and has four wheels, two of which lock for stability.",
+        "Homz Plastic 3-Drawer Wide Cart": " This cart has three deep, wide drawers that are perfect for storing larger items like blankets and towels. The cart is made of sturdy plastic and has four wheels for easy mobility."
+      }
+    }
+  },
+  "Camera": {
+    "description": {
+      "Sony A7 III ": " Full frame mirrorless camera, 24.2 megapixel resolution, 693 phase detection autofocus points, 5-axis in-body image stabilization, 10fps continuous shooting, 4K video recording.",
+      "Canon EOS R6 ": " Full frame mirrorless camera, 20.1 megapixel resolution, 5940 autofocus points, 5-axis in-body image stabilization, 12fps continuous shooting, 4K video recording.",
+      "Nikon Z7 II ": " Full frame mirrorless camera, 45.7 megapixel resolution, 493 focus points, 5-axis in-body image stabilization, 10fps continuous shooting, 4K video recording.",
+      "Fujifilm X-T4 ": " Mirrorless camera, 26.1 megapixel resolution, 425 autofocus points, 5-axis in-body image stabilization, 15fps continuous shooting, 4K video recording.",
+      "Olympus OM-D E-M1 Mark III ": " Mirrorless camera, 20.4 megapixel resolution, 121 autofocus points, 5-axis in-body image stabilization, 60fps continuous shooting (in electronic shutter mode), 4K video recording.",
+      "Panasonic Lumix GH5 ": " Mirrorless camera, 20.3 megapixel resolution, 225 autofocus points, 5-axis in-body image stabilization, 12fps continuous shooting, 4K video recording.",
+      "Sony A6600 ": " Mirrorless camera, 24.2 megapixel resolution, 425 autofocus points, 5-axis in-body image stabilization, 11fps continuous shooting, 4K video recording.",
+      "Canon EOS M6 Mark II ": " Mirrorless camera, 32.5 megapixel resolution, 143 autofocus points, 5-axis in-body image stabilization, 14fps continuous shooting, 4K video recording.",
+      "Nikon D850 ": " DSLR camera, 45.7 megapixel resolution, 153 autofocus points, 5-axis in-body image stabilization, 7fps continuous shooting (9fps with optional battery grip), 4K video recording.",
+      "Canon EOS 5D Mark IV ": " DSLR camera, 30.4 megapixel resolution, 61 autofocus points, 5-axis in-body image stabilization, 7fps continuous shooting, 4K video recording."
+    },
+    "features": "sensor resolution, autofocus points, in-body image stabilization, continuous shooting speed, video recording capabilities",
+    "price": "10000 - 50000",
+    "accessories": {
+      "Camera bag": {
+        "Lowepro ProTactic BP 450 AW II ": " This is a professional-grade backpack designed for photographers who need to carry a lot of gear. It features a customizable interior, multiple access points, and a built-in all-weather cover.",
+        "Think Tank Photo Retrospective 30 V2.0 ": " This shoulder bag has a classic design and is perfect for street photographers. It can hold a full-frame camera with a 70-200mm lens attached, as well as additional lenses and accessories.",
+        "Peak Design Everyday Messenger Bag ": " This versatile bag can be worn as a shoulder or cross-body bag and can accommodate a camera and several lenses, as well as a laptop and other personal items. It also features a unique MagLatch closure system.",
+        "Domke F-2 Original Bag ": " This is a simple and rugged shoulder bag made of durable canvas. It can hold one or two cameras with several lenses, as well as other accessories. It has a weather-resistant flap and a comfortable shoulder strap.",
+        "Tenba Cooper 13 Slim ": " This is a stylish and functional shoulder bag that can hold a mirrorless or compact camera with several lenses and accessories. It features a water-repellent exterior, a padded interior, and a removable shoulder strap."
+      },
+      "Tripod": {
+        "Manfrotto MT190XPRO4 4-Section Aluminum Tripod ": " This tripod features a unique 90-degree center column mechanism, allowing the column to be extended vertically or horizontally. It also has four leg angle positions, a bubble level, and a maximum load capacity of 15.4 lbs.",
+        "Gitzo GT5563GS Systematic Series 5 Systematic Tripod ": " Made from high-strength carbon fiber, this tripod has a modular design that allows for a range of configurations. It features Gitzo's Ground Level Set system for low-angle shots, interchangeable feet, and a maximum load capacity of 88 lbs.",
+        "Vanguard Alta Pro 2+ 263AT Aluminum Tripod ": " This tripod has a multi-angle center column that can be adjusted to almost any position, allowing for creative camera positioning. It also features advanced twist-lock legs, a bubble level, and a maximum load capacity of 15.4 lbs.",
+        "Benro Mach3 TMA28A Aluminum Tripod ": " Made from high-strength aluminum alloy, this tripod has a reversible center column that can be used for low-angle shots. It also features twist-lock legs, a bubble level, and a maximum load capacity of 30.9 lbs.",
+        "Joby GorillaPod 5K Kit ": " This compact and versatile tripod can be used for both photography and videography. It features flexible legs that can be wrapped around objects or used on uneven surfaces, a ball head with a 360-degree panning bed, and a maximum load capacity of 11 lbs."
+      },
+      "Camera strap": {
+        "Black Rapid Sport Breathe Camera Strap ": " This strap is designed for active photographers and allows for quick and easy access to your camera. It features a comfortable and breathable shoulder pad and adjustable length.",
+        "Peak Design Slide Lite Camera Strap ": " This versatile strap can be worn as a sling, neck or shoulder strap and features quick-adjustment buttons for easy length adjustment. The strap is made from durable materials and includes anchors to attach to your camera.",
+        "Joby UltraFit Sling Strap for Men ": " This strap is designed for male photographers and features a comfortable, padded shoulder strap with a non-slip grip. The strap also includes a stabilizer strap to keep your camera steady.",
+        "SpiderPro Hand Strap ": " This hand strap allows you to securely grip your camera with one hand while shooting. The strap is made from durable materials and includes a unique design that allows for easy attachment and detachment from your camera.",
+        "ONA The Presidio Camera Strap": " This stylish leather strap is perfect for those who want to add a touch of sophistication to their camera gear. It features a wide neck pad for comfort and adjustable length for a custom fit."
+      },
+      "External flash": {
+        "Canon Speedlite 600EX II-RT ": " This external flash is designed for Canon cameras and features a guide number of 197' at ISO 100 and 200mm. It has a zoom range of 20-200mm, as well as a wide panel that extends coverage to 14mm.",
+        "Nikon SB-700 AF Speedlight ": " This external flash offers a guide number of 92' at ISO 100 and 35mm and has a zoom range of 24-120mm. It can also tilt from -7\u00b0 to 90\u00b0 and rotate 180\u00b0 in both directions.",
+        "Sony HVL-F60RM Wireless Radio Flash ": " This external flash is compatible with Sony cameras and features a guide number of 197' at ISO 100 and 105mm. It also has a zoom range of 20-200mm and offers wireless control via radio signals.",
+        "Godox V860II-C TTL Li-Ion Flash ": " This external flash is compatible with Canon cameras and offers a guide number of 197' at ISO 100 and 200mm. It has a zoom range of 20-200mm, as well as a built-in 2.4 GHz X wireless system for remote control.",
+        "Fujifilm EF-60 Shoe Mount Flash ": " This external flash is designed for Fujifilm cameras and offers a guide number of 196' at ISO 100 and 105mm. It has a zoom range of 24-200mm and offers wireless control via optical signals."
+      },
+      "Lens filters": {
+        "UV filter ": " A UV filter blocks ultraviolet rays and can improve image clarity and reduce haze in photos taken outdoors. It also provides an additional layer of protection for the lens.",
+        "Polarizing filter ": " A polarizing filter can be rotated to adjust the amount of polarized light that enters the lens. It can help reduce glare and reflections, and can make colors appear more vibrant.",
+        "ND filter ": " A neutral density (ND) filter reduces the amount of light that enters the lens, allowing for longer exposure times without overexposing the image. This is useful for capturing motion blur or creating shallow depth of field in bright lighting conditions.",
+        "Graduated filter ": " A graduated filter has a gradient of darkness, with one end being darker than the other. This can be useful for landscape photography, where the sky is much brighter than the foreground. The filter can be positioned so that the darker end is over the sky, which helps balance the exposure.",
+        "Infrared filter ": " An infrared filter blocks visible light and allows only infrared light to pass through the lens. This can create unique and artistic effects in photos by highlighting different textures and tones that are not visible to the naked eye."
+      },
+      "Remote shutter release": {
+        "Wired Shutter Release ": " This type of shutter release connects to the camera via a cable and allows you to trigger the shutter without touching the camera, reducing the chance of camera shake.",
+        "Wireless Shutter Release ": " This type of shutter release uses radio waves or infrared to communicate with the camera and trigger the shutter from a distance. Some models can be controlled using a smartphone app.",
+        "Intervalometer Shutter Release ": " An intervalometer shutter release allows you to take a series of photos at set intervals, which is useful for time-lapse photography.",
+        "Bluetooth Shutter Release ": " A Bluetooth shutter release is a wireless option that connects to your camera using Bluetooth technology. This type of shutter release can be controlled using a smartphone app.",
+        "Infrared Shutter Release ": " An infrared shutter release uses infrared technology to trigger the camera's shutter. This type of shutter release can be used from a distance, but requires a clear line of sight to the camera's infrared receiver."
+      },
+      "Memory cards": {
+        "SanDisk Ultra microSDXC UHS-I Card": " This memory card comes with a capacity of up to 512GB and is perfect for capturing and storing high-quality photos and videos. It has read speeds of up to 100MB/s and is designed to be water, temperature, and shockproof.",
+        "Samsung Evo Select microSDXC UHS-I Card": " This memory card has a capacity of up to 512GB and is great for use in mobile devices such as smartphones, tablets, and action cameras. It has read speeds of up to 100MB/s and write speeds of up to 90MB/s.",
+        "Lexar Professional 633x SDXC UHS-I Card": " This memory card has a capacity of up to 1TB and is perfect for capturing high-quality photos and videos. It has read speeds of up to 95MB/s and write speeds of up to 70MB/s.",
+        "Kingston Canvas React Plus SDXC Card": " This memory card has a capacity of up to 512GB and is great for use in DSLRs and other high-end cameras. It has read speeds of up to 300MB/s and write speeds of up to 260MB/s.",
+        "Sony SF-G Tough SDXC Card": " This memory card has a capacity of up to 128GB and is designed to be ultra-durable and reliable. It has read speeds of up to 300MB/s and write speeds of up to 299MB/s, making it ideal for professional photographers and videographers. It is also water, dust, and drop-proof."
+      },
+      "External hard drive": {
+        "Seagate Expansion Portable External Hard Drive": " This hard drive is available in different storage capacities ranging from 1TB to 5TB. It has a USB 3.0 interface for faster data transfer rates and is compatible with both Windows and Mac operating systems.",
+        "Western Digital My Passport External Hard Drive": " This hard drive is available in storage capacities ranging from 1TB to 5TB. It features a compact and sleek design, and offers automatic backup options with password protection to keep your data safe.",
+        "Toshiba Canvio Advance External Hard Drive": " This hard drive is available in storage capacities ranging from 1TB to 4TB. It has a sleek and durable design with a scratch-resistant finish. It also features password protection and automatic backup software.",
+        "Samsung T5 Portable External Solid State Drive": " This external hard drive offers storage capacities ranging from 250GB to 2TB. It features a USB-C interface for faster data transfer rates and is compatible with both Windows and Mac operating systems. It also has a compact and durable design.",
+        "LaCie Rugged External Hard Drive": " This hard drive offers storage capacities ranging from 1TB to 5TB. It features a rugged design that can withstand drops, shocks, and even water. It also has a USB-C interface for faster data transfer rates and is compatible with both Windows and Mac operating systems."
+      }
+    }
+  },
+  "AC": {
+    "description": {
+      "LG 1.5 Ton 5 Star Inverter Split AC": " Comes with Dual Inverter Compressor, 5-star energy rating, and a cooling capacity of 5400 W.",
+      "Daikin 1.5 Ton 5 Star Wi-Fi Inverter Split AC": " Has a 5-star energy rating, Wi-Fi connectivity, a cooling capacity of 5000 W, and an inverter compressor.",
+      "Voltas 1.5 Ton 3 Star Split AC": " Comes with a 3-star energy rating, a cooling capacity of 5100 W, and an anti-dust filter.",
+      "Blue Star 1.5 Ton 3 Star Inverter Split AC": " Has a 3-star energy rating, an inverter compressor, a cooling capacity of 5300 W, and a self-clean feature.",
+      "Carrier 1.5 Ton 3 Star Split AC": " Comes with a 3-star energy rating, a cooling capacity of 5200 W, and a copper condenser coil.",
+      "Hitachi 1.5 Ton 5 Star Inverter Split AC": " Has a 5-star energy rating, an inverter compressor, a cooling capacity of 5100 W, and an auto-restart feature.",
+      "Samsung 1.5 Ton 5 Star Inverter Split AC": " Comes with a 5-star energy rating, an inverter compressor, a cooling capacity of 5100 W, and a copper condenser coil.",
+      "Whirlpool 1.5 Ton 3 Star Inverter Split AC": " Has a 3-star energy rating, an inverter compressor, a cooling capacity of 5000 W, and a copper condenser coil.",
+      "Godrej 1.5 Ton 3 Star Split AC": " Comes with a 3-star energy rating, a cooling capacity of 5100 W, and an anti-corrosive Bluefin coating on the condenser.",
+      "Panasonic 1.5 Ton 5 Star Wi-Fi Inverter Split AC": " Has a 5-star energy rating, Wi-Fi connectivity, an inverter compressor, and a cooling capacity of 5100 W."
+    },
+    "features": "Cooling Capacity, Energy Rating, Other features",
+    "price": "20000 - 60000",
+    "accessories": {
+      "Smart thermostats": {
+        "Nest Learning Thermostat ": " The Nest Learning Thermostat is a smart thermostat that learns your schedule and temperature preferences to create a personalized heating and cooling schedule. It can be controlled from anywhere using a smartphone or tablet, and can be set to automatically adjust to energy-saving settings when you're away from home.",
+        "ecobee SmartThermostat ": " The ecobee SmartThermostat is a Wi-Fi enabled thermostat that can be controlled using your smartphone, tablet, or voice commands. It features built-in Alexa voice control, a remote temperature sensor, and smart home compatibility with popular systems like Apple HomeKit, Google Assistant, and Samsung SmartThings.",
+        "Honeywell Home T9 ": " The Honeywell Home T9 smart thermostat features multi-room sensors that measure temperature and humidity in different areas of your home, helping to keep your home at the right temperature in every room. It can be controlled using a smartphone or tablet, and features built-in Amazon Alexa voice control.",
+        "Sensi Smart Thermostat ": " The Sensi Smart Thermostat is a simple and affordable Wi-Fi enabled thermostat that can be controlled using a smartphone or tablet. It features easy DIY installation and compatibility with popular smart home systems like Amazon Alexa, Apple HomeKit, and Google Assistant.",
+        "Emerson Sensi Touch Wi-Fi Thermostat ": " The Emerson Sensi Touch Wi-Fi Thermostat is a sleek and modern thermostat that can be controlled using a smartphone or tablet, and features a color touch screen for easy programming and operation. It works with Amazon Alexa, Apple HomeKit, and Google Assistant, and features geofencing technology that adjusts the temperature when you're away from home."
+      },
+      "Extension cords": {
+        "AmazonBasics Indoor 3 Prong Extension Cord": " This extension cord is 6 feet long and has a 3-pronged plug. It is designed for indoor use and can handle up to 13 Amps of electrical current. The cord is made of durable PVC and has a maximum voltage rating of 125V.",
+        "Woods 990768 16/3 Outdoor Extension Cord": " This extension cord is designed for outdoor use and is made of weather-resistant vinyl. It is 50 feet long and has a 3-pronged plug. It can handle up to 13 Amps of electrical current and has a maximum voltage rating of 125V.",
+        "GoGreen Power GG-25604 14/3 4' 3-Outlet Extension Cord": " This compact extension cord is 4 feet long and has 3 grounded outlets. It is made of heavy-duty PVC and can handle up to 15 Amps of electrical current. It is ideal for use in tight spaces or where extra outlets are needed.",
+        "Cable Matters 2-Pack 16 AWG Heavy Duty 3 Prong AC Power Extension Cord": " This pack includes two 6-foot long extension cords that have a 3-pronged plug. They are made of sturdy PVC and can handle up to 13 Amps of electrical current. They are ideal for use with large appliances or electronics.",
+        "Belkin 12-Outlet Power Strip Surge Protector w/ 8ft Cord": " This extension cord features a 12-outlet power strip and 8-foot long cord. It has a maximum voltage rating of 125V and can handle up to 15 Amps of electrical current. It also includes surge protection to protect connected devices from power surges or spikes."
+      },
+      "Wall brackets": {
+        "VideoSecu ML531BE2 TV Wall Mount ": " Fits most 26-55 inch LED LCD OLED Plasma Flat Screen TV with VESA up to 400x400 mm, weight capacity up to 88lbs. Low profile design with 1.5-inch flush profile, extends up to 20 inches, tilts up/down 15 degrees, swivels left/right up to 180 degrees. Includes mounting hardware.",
+        "Sanus VMPL50A-B1 Tilting Wall Mount ": " Fits most 32-70 inch flat-panel TVs up to 130lbs, VESA pattern 100x100 to 600x400. Tilts up/down 7 degrees, low profile design with 1.5-inch depth, easy to install with included hardware.",
+        "OmniMount OE220 Tilting TV Wall Mount ": " Fits most 13-42 inch TVs up to 80lbs, VESA pattern 75x75 to 200x200. Tilts up/down 15 degrees, low profile design with 2.2-inch depth, includes complete hardware kit.",
+        "Vogel's TMS1000 Wall Mount ": " Fits most tablets up to 13 inches, weight capacity up to 2.2lbs. Adjustable arm allows for tilting up/down and swiveling left/right. Can be mounted on a wall or cabinet, includes mounting hardware.",
+        "Kanto PDX650 Full Motion Wall Mount ": " Fits most 37-75 inch flat-panel TVs up to 125lbs, VESA pattern 200x100 to 600x400. Low profile design with 2.5-inch depth, extends up to 21.8 inches, tilts up/down 15 degrees, swivels left/right up to 80 degrees. Includes installation template and hardware kit."
+      }
+    }
+  },
+  "refrigerator": {
+    "description": {
+      "LG 26.2 cu. ft. Side-by-Side Refrigerator": " This refrigerator features a spacious 26.2 cu. ft. capacity, an ice and water dispenser, and SmartThinQ technology that allows you to control your fridge from your smartphone.",
+      "Samsung 25.5 cu. ft. French Door Refrigerator": " With its sleek stainless steel exterior, this refrigerator boasts a large 25.5 cu. ft. capacity, a built-in ice maker, and adjustable shelves for easy customization.",
+      "Whirlpool 24.6 cu. ft. French Door Refrigerator": " This refrigerator has a large 24.6 cu. ft. capacity and features a temperature-controlled drawer that can be customized for different types of food.",
+      "Frigidaire 22.4 cu. ft. Counter-Depth French Door Refrigerator": " This counter-depth refrigerator is designed to blend seamlessly with your cabinets and has a large 22.4 cu. ft. capacity.",
+      "GE 27.8 cu. ft. French Door Refrigerator": " This refrigerator has a massive 27.8 cu. ft. capacity and features a built-in water dispenser and ice maker, as well as adjustable shelves for easy customization.",
+      "Bosch 800 Series 36\" Counter-Depth French Door Refrigerator": " This sleek refrigerator features a 21 cu. ft. capacity, a built-in ice maker, and an air filter that helps to keep your food fresh for longer.",
+      "KitchenAid 23.8 cu. ft. French Door Refrigerator": " With its 23.8 cu. ft. capacity, this refrigerator is perfect for large families. It also features a built-in ice maker and an exterior water dispenser.",
+      "Maytag 20 cu. ft. Top Freezer Refrigerator": " This top freezer refrigerator has a 20 cu. ft. capacity and features electronic temperature controls and a built-in ice maker.",
+      "LG 22.7 cu. ft. 4-Door French Door Refrigerator": " This 4-door refrigerator has a large 22.7 cu. ft. capacity and features a built-in water dispenser and ice maker, as well as adjustable shelves for easy customization.",
+      "Samsung 28 cu. ft. 4-Door French Door Refrigerator": " This refrigerator boasts a massive 28 cu. ft. capacity and features a built-in ice maker, adjustable shelves, and a temperature-controlled drawer that can be customized for different types of food."
+    },
+    "features": "Ice maker, Capacity, All Features",
+    "price": "10000 - 70000",
+    "accessories": {
+      "Extension cords": {
+        "AmazonBasics Indoor 3 Prong Extension Cord ": " This extension cord is 6 feet long and has a 3-pronged plug. It is designed for indoor use and can handle up to 13 Amps of electrical current. The cord is made of durable PVC and has a maximum voltage rating of 125V.",
+        "Woods 990768 16/3 Outdoor Extension Cord ": " This extension cord is designed for outdoor use and is made of weather-resistant vinyl. It is 50 feet long and has a 3-pronged plug. It can handle up to 13 Amps of electrical current and has a maximum voltage rating of 125V.",
+        "GoGreen Power GG-25604 14/3 4' 3-Outlet Extension Cord ": " This compact extension cord is 4 feet long and has 3 grounded outlets. It is made of heavy-duty PVC and can handle up to 15 Amps of electrical current. It is ideal for use in tight spaces or where extra outlets are needed.",
+        "Cable Matters 2-Pack 16 AWG Heavy Duty 3 Prong AC Power Extension Cord ": " This pack includes two 6-foot long extension cords that have a 3-pronged plug. They are made of sturdy PVC and can handle up to 13 Amps of electrical current. They are ideal for use with large appliances or electronics.",
+        "Belkin 12-Outlet Power Strip Surge Protector w/ 8ft Cord ": " This extension cord features a 12-outlet power strip and 8-foot long cord. It has a maximum voltage rating of 125V and can handle up to 15 Amps of electrical current. It also includes surge protection to protect connected devices from power surges or spikes."
+      },
+      "Covers": {
+        "Refrigerator Dust Cover ": " This cover is designed to keep your fridge free from dust and dirt, and is made from a lightweight, breathable material.",
+        "Refrigerator Handle Covers ": " These covers are designed to protect your refrigerator handles from scratches, fingerprints and other damage. They are usually made from a soft, padded material that is easy to clean.",
+        "Fridge Top Cover ": " This cover is designed to protect the top of your fridge from scratches, dust and other damage. It is usually made from a durable, waterproof material and is easy to install.",
+        "Magnetic Refrigerator Door Cover ": " This cover is designed to cover the front of your refrigerator door, and is held in place with magnets. It is usually made from a durable, easy-to-clean material and is available in a range of colors and designs.",
+        "Universal Refrigerator Cover ": " This cover is designed to fit most standard-size refrigerators and is made from a waterproof, durable material. It features a zipper closure for easy access to the fridge and is available in a range of colors and patterns."
+      },
+      "Stand": {
+        "Universal Mobile Base Fridge Stand": " This stand is adjustable in size to fit most refrigerators and comes with four locking wheels for easy mobility. It is made of high-quality stainless steel and can support up to 500 pounds.",
+        "Multi-functional Adjustable Base Stand": " This stand is also adjustable in size and can fit most refrigerators. It is made of durable high-quality material and can support up to 300 pounds. It also comes with four locking wheels for easy mobility.",
+        "Heavy Duty Refrigerator Stand": " This stand is made of sturdy steel and can support up to 800 pounds. It is adjustable in size and can fit most refrigerators. It also has four locking wheels for easy mobility.",
+        "Adjustable Fridge Stand with Drawer": " This stand not only provides a stable base for your refrigerator but also has a convenient pull-out drawer for extra storage. It is made of high-quality stainless steel and can support up to 440 pounds.",
+        "Anti-Vibration Refrigerator Stand": " This stand is designed to absorb vibrations and noise from your refrigerator, making it ideal for use in apartments or shared living spaces. It is adjustable in size and can fit most refrigerators, and also has four locking wheels for easy mobility."
+      }
+    }
+  },
+  "tablet": {
+    "description": {
+      "Apple iPad Pro ": " 11-inch Liquid Retina display, A14 Bionic chip with Neural Engine, 12MP Wide camera, 8GB RAM, Face ID, up to 1TB storage, and up to 10 hours of battery life.",
+      "Samsung Galaxy Tab S7 ": " 11-inch TFT display, Qualcomm Snapdragon 865+ processor, 13MP + 5MP dual rear cameras, S Pen included, up to 8GB RAM, up to 256GB storage, and up to 15 hours of battery life.",
+      "Microsoft Surface Pro 7 ": " 12.3-inch PixelSense display, 10th Gen Intel Core processors, up to 16GB RAM, up to 1TB storage, 8MP rear-facing camera, Windows Hello face authentication, and up to 10.5 hours of battery life.",
+      "Amazon Fire HD 10 ": " 10.1-inch Full HD display, octa-core processor, up to 3GB RAM, up to 64GB storage, up to 12 hours of battery life, and Alexa hands-free.",
+      "Lenovo Tab P11 Pro ": " 11.5-inch OLED display, Snapdragon 730G processor, 13MP + 5MP dual rear cameras, JBL speakers, up to 6GB RAM, up to 128GB storage, and up to 15 hours of battery life.",
+      "Huawei MatePad Pro ": " 10.8-inch IPS display, Kirin 990 processor, 13MP rear camera, M-Pencil included, up to 8GB RAM, up to 512GB storage, and up to 12 hours of battery life.",
+      "Google Pixel Slate ": " 12.3-inch Molecular Display, 8th Gen Intel Core processors, up to 16GB RAM, up to 256GB storage, 8MP rear-facing camera, Pixel Imprint fingerprint sensor, and up to 12 hours of battery life.",
+      "ASUS ZenPad 3S 10 ": " 9.7-inch IPS display, MediaTek 8176 Turbo processor, 8MP rear camera, up to 4GB RAM, up to 64GB storage, and up to 10 hours of battery life.",
+      "Sony Xperia Z4 ": " 10.1-inch IPS display, Snapdragon 810 processor, 8.1MP rear camera, up to 3GB RAM, up to 32GB storage, and up to 17 hours of battery life.",
+      "Xiaomi Mi Pad 5 ": " 11-inch IPS display, Snapdragon 860 processor, 13MP rear camera, 8GB RAM, up to 256GB storage, and up to 12 hours of battery life."
+    },
+    "features": "Display, Processor, RAM, Battery life, Storage, Camera",
+    "price": "20000 - 100000",
+    "accessories": {
+      "Stylus pen": {
+        "Apple Pencil (2nd Generation) ": " Compatible with iPad Pro and iPad Air. Has precision and responsiveness, supports tap and swipe gestures, magnetically attaches to iPad for pairing and charging.",
+        "Adonit Note+ ": " Compatible with iOS and Android devices. Has 2048 levels of pressure sensitivity, programmable shortcut buttons, palm rejection technology, and a rechargeable battery.",
+        "Wacom Bamboo Ink ": " Compatible with Windows 10 devices. Has 4096 levels of pressure sensitivity, customizable shortcut buttons, and supports both Wacom Active ES and Microsoft Pen Protocol.",
+        "Microsoft Surface Pen ": " Compatible with Microsoft Surface devices. Has 4096 levels of pressure sensitivity, tilt support, customizable shortcut buttons, and a replaceable battery.",
+        "Staedtler Noris Digital ": " Compatible with Samsung Galaxy devices. Has EMR technology, 4096 levels of pressure sensitivity, an ergonomic triangular design, and a replaceable nib."
+      },
+      "Docking station": {
+        "Dell WD19 180W Docking Station ": " This docking station features USB-C and USB-A connectivity, HDMI, DisplayPort, and VGA ports, as well as ethernet and audio connections. It supports up to three displays and provides up to 130W of power delivery to compatible devices.",
+        "HP Thunderbolt Dock 120W G2 ": " This docking station features a Thunderbolt 3 port, USB-C and USB-A ports, HDMI and VGA ports, as well as audio and ethernet connections. It supports up to two displays and provides up to 120W of power delivery to compatible devices.",
+        "Lenovo ThinkPad USB-C Dock Gen 2 ": " This docking station features USB-C and USB-A connectivity, HDMI, DisplayPort, and VGA ports, as well as audio and ethernet connections. It supports up to two displays and provides up to 90W of power delivery to compatible devices.",
+        "Microsoft Surface Dock 2 ": " This docking station is designed specifically for Microsoft Surface devices and features USB-C and USB-A connectivity, two HDMI ports, and a DisplayPort port. It supports up to two 4K displays and provides up to 199W of power delivery to compatible devices.",
+        "Targus Universal USB-C DV4K Docking Station with 100W Power ": " This docking station features USB-C and USB-A connectivity, HDMI and DisplayPort ports, as well as audio and ethernet connections. It supports up to two displays and provides up to 100W of power delivery to compatible devices."
+      },
+      "Headphones": {
+        "Bose QuietComfort 35 II ": " These headphones are equipped with noise-cancellation technology, enabling you to enjoy your music without any disturbances. They have a battery life of up to 20 hours and come with built-in Alexa and Google Assistant for voice commands.",
+        "Sony WH-1000XM4 ": " These headphones also come with noise-cancellation technology and can last up to 30 hours on a single charge. They have touch controls, a customizable equalizer, and support for 360 Reality Audio.",
+        "Sennheiser Momentum 3 Wireless ": " These headphones offer a comfortable fit with soft leather earpads and headband. They have noise-cancellation technology, a battery life of up to 17 hours, and support for voice assistants like Siri and Google Assistant.",
+        "Apple AirPods Pro ": " These in-ear headphones offer active noise-cancellation and a customizable fit with silicone ear tips. They have a battery life of up to 4.5 hours and come with a wireless charging case.",
+        "Jabra Elite 85t ": " These earbuds offer noise-cancellation technology and a customizable equalizer. They have a battery life of up to 5.5 hours on a single charge and come with a wireless charging case that can extend the battery life up to 25 hours."
+      },
+      "Memory cards": {
+        "SanDisk Ultra microSDXC UHS-I Card ": " This memory card comes with a capacity of up to 512GB and is perfect for capturing and storing high-quality photos and videos. It has read speeds of up to 100MB/s and is designed to be water, temperature, and shockproof.",
+        "Samsung Evo Select microSDXC UHS-I Card ": " This memory card has a capacity of up to 512GB and is great for use in mobile devices such as smartphones, tablets, and action cameras. It has read speeds of up to 100MB/s and write speeds of up to 90MB/s.",
+        "Lexar Professional 633x SDXC UHS-I Card ": " This memory card has a capacity of up to 1TB and is perfect for capturing high-quality photos and videos. It has read speeds of up to 95MB/s and write speeds of up to 70MB/s.",
+        "Kingston Canvas React Plus SDXC Card ": " This memory card has a capacity of up to 512GB and is great for use in DSLRs and other high-end cameras. It has read speeds of up to 300MB/s and write speeds of up to 260MB/s.",
+        "Sony SF-G Tough SDXC Card ": " This memory card has a capacity of up to 128GB and is designed to be ultra-durable and reliable. It has read speeds of up to 300MB/s and write speeds of up to 299MB/s, making it ideal for professional photographers and videographers. It is also water, dust, and drop-proof."
+      }
+    }
+  },
+  "Oven": {
+    "description": {
+      "GE Profile PTD9000SNSS ": " This is a double wall oven with a total capacity of 10 cu. ft. It has a true European convection cooking system, ten-pass bake element, and an eight-pass broil element. It also has a touch display that shows temperature, cooking time, and oven status. It does not have a self cleaning system. It does not have a temperature probe.",
+      "Samsung Flex Duo Electric Oven NE59J7850WS ": " This electric oven has a total capacity of 5.9 cu. ft. and features a flexible dual oven design that allows you to cook multiple dishes at different temperatures simultaneously. It also has a convection cooking system, a built-in temperature probe, and a warming drawer. It does not have a self cleaning system.",
+      "KitchenAid KODE500ESS ": " This double wall oven has a total capacity of 10 cu. ft. and features a true convection cooking system with a bow-tie design and a temperature probe. It also has a self-cleaning system and a glass touch display that shows cooking options and cooking status.",
+      "LG LDE4415ST ": " This electric double oven has a total capacity of 7.3 cu. ft. and features a true convection cooking system with a fan and a third heating element. It also has an infrared broiler, a smooth cooktop surface, and a self-cleaning system. It does not have a temperature probe.",
+      "Frigidaire FGET3066UF ": " This double wall oven has a total capacity of 10.2 cu. ft. and features a true convection cooking system with a third heating element and a fan. It also has a built-in temperature probe, a self-cleaning system, and a steam cleaning option.",
+      "Bosch HBL8752UC ": " This double wall oven has a total capacity of 7.0 cu. ft. and features a genuine European convection cooking system, a telescopic rack, and a built-in meat probe. It also has a self-cleaning system and a full-color touch display.",
+      "Whirlpool WOD93EC0AS ": " This double wall oven has a total capacity of 10 cu. ft. and features a true convection cooking system with a fan and a third heating element. It also has a self-cleaning system, a temperature probe, and a rapid preheat option.",
+      "Maytag MEW9630FZ ": " This double wall oven has a total capacity of 10 cu. ft. and features a true convection cooking system with a fan and a third heating element. It also has a heavy-duty roll-out rack, a temperature probe, and a self-cleaning system.",
+      "Viking VEDO5302SS ": " This double wall oven has a total capacity of 9.4 cu. ft. and features a convection cooking system with a fan and a third heating element. It also has a Rapid Ready preheat system, a temperature probe, and a self-cleaning system.",
+      "Electrolux EI30EW48TS ": " This double wall oven has a total capacity of 9.6 cu. ft. and features a true convection cooking system with a fan and a third heating element. It also has a self-cleaning system, a temperature probe, and a smooth-glide oven racks."
+    },
+    "features": "Cooking System, Capacity, Self cleaning, Temperature probe",
+    "price": "4000 - 40000",
+    "accessories": {
+      "Baking gloves": {
+        "HOMWE Extra Long Professional Silicone Oven Mitt ": " This baking glove is heat-resistant up to 450\u00b0F, made with flexible and durable silicone, and has a textured surface for improved grip.",
+        "Dexas Silicone Pot Holder and Oven Mitt ": " This baking glove is heat-resistant up to 500\u00b0F, made with non-slip silicone, and can be used as both a pot holder and an oven mitt.",
+        "Rorecay Extra Long Oven Mitts ": " These baking gloves are heat-resistant up to 500\u00b0F, made with non-slip silicone, and feature an extra long cuff for added protection.",
+        "Cuisinart Silicone Oven Mitts ": " These baking gloves are heat-resistant up to 500\u00b0F, made with durable silicone, and have a soft cotton lining for comfort.",
+        "Frux Home and Yard Silicone Oven Mitts ": " These baking gloves are heat-resistant up to 500\u00b0F, made with flexible silicone, and come in a set of two with a textured surface for improved grip."
+      },
+      "Microwave Safe Coffee Maker Mug": {
+        "Corelle Coordinates Microwave Safe Coffee Mug": " This 11-ounce coffee mug is made of durable, lightweight stoneware and is microwave safe. It features a simple, classic design and is dishwasher safe for easy cleaning.",
+        "Sweese Porcelain Microwave Safe Coffee Mug": " This 12-ounce coffee mug is made of high-quality porcelain and is both microwave and dishwasher safe. It features a unique, stylish design and comes in a variety of colors.",
+        "Tervis Microwave Safe Coffee Mug": " This 16-ounce coffee mug is made of high-quality, BPA-free plastic and is microwave and dishwasher safe. It features a double-walled design to keep drinks hot or cold for longer periods of time.",
+        "Sistema Microwave Safe Coffee Mug": " This 13.5-ounce coffee mug is made of BPA-free plastic and is both microwave and dishwasher safe. It features a unique, easy-to-hold handle and a steam vent to prevent spills.",
+        "CorningWare Microwave Safe Coffee Mug": " This 20-ounce coffee mug is made of durable stoneware and is microwave safe. It features a classic design and is dishwasher safe for easy cleaning."
+      },
+      "Microwave rack": {
+        "AmazonBasics Microwave Rack": " This is a multi-purpose rack that fits most standard microwaves. It has three tiers and can be used to cook, reheat or store food items. The rack is made of durable chrome-plated steel and is easy to assemble.",
+        "Greenco Microwave Stand": " This is a compact and stylish rack that can be used to store a microwave, dishes, and other kitchen items. The stand is made of bamboo, which is eco-friendly and easy to clean. It has two tiers and comes with a built-in drawer for extra storage.",
+        "Homfa Microwave Oven Rack": " This is a versatile rack that can be used to store a microwave, dishes, spices, and other kitchen items. The rack is made of high-quality carbon steel and has four tiers. It is easy to assemble and comes with adjustable feet for stability.",
+        "AISHN Microwave Rack": " This is a sturdy and durable rack that can hold a microwave and other kitchen items. The rack is made of high-quality stainless steel and has three tiers. It comes with adjustable feet for stability and can be easily assembled.",
+        "Mind Reader Microwave Oven Rack": " This is a stylish and functional rack that can be used to store a microwave and other kitchen items. The rack is made of high-quality bamboo and has two tiers. It comes with a built-in drawer for extra storage and is easy to assemble."
+      },
+      "Microwave oven cleaner": {
+        "Angry Mama Microwave Cleaner ": " A fun and easy way to clean your microwave, simply fill Angry Mama with water and vinegar and microwave for 7 minutes. Steam will be released from her head and soften any dirt and stains, making them easy to wipe away.",
+        "Weiman Microwave & Cooktop Cleaner ": " A multi-purpose cleaner that works on both the inside and outside of your microwave. The formula is designed to dissolve tough stains, grease, and grime, leaving your microwave looking like new.",
+        "Glisten Microwave Cleaner ": " A foaming cleaner that deep cleans and deodorizes your microwave in minutes. The foam clings to the interior of the microwave, lifting and removing dirt and stains. The formula is safe for use on all microwave surfaces.",
+        "Easy-Off Microwave Cleaner ": " This heavy-duty cleaner removes tough, baked-on grease and food stains from your microwave. The formula is safe for use on all microwave surfaces, and the spray nozzle makes it easy to apply.",
+        "Lemon-Aid Microwave Cleaner ": " A natural and eco-friendly cleaner made from lemon juice and vinegar. Simply spray the solution inside your microwave and let it sit for a few minutes before wiping away dirt and stains. The formula is safe for use on all microwave surfaces and leaves a fresh lemon scent."
+      },
+      "Baking sheets and pans": {
+        "Silicone baking mats": " These can be used for baking cookies, biscuits, and other small baked goods in a microwave oven.",
+        "Silicone muffin cups": " These can be used to make individual muffins or cupcakes in a microwave oven.",
+        "Microwave cake molds": " These are specifically designed for microwave baking and can be used to make cakes, breads, and other baked goods.",
+        "Glass baking dishes": " Some glass baking dishes are microwave safe and can be used to bake small items like cakes, brownies, or casseroles.",
+        "Microwave popcorn maker": " This is a specialized container that allows you to make popcorn in a microwave oven without the need for pre-packaged microwave popcorn bags."
+      }
+    }
+  },
+  "Printer": {
+    "description": {
+      "HP OfficeJet Pro 9025e": " This all-in-one printer features automatic two-sided printing, copying, and scanning, wireless connectivity, and a 35-page automatic document feeder. It has a print speed of up to 24 pages per minute and can print up to 8,000 pages per month.",
+      "Canon PIXMA TR8620": " This all-in-one printer has a 4.3-inch LCD touchscreen display and features wireless connectivity, automatic two-sided printing, and a 20-sheet automatic document feeder. It has a print speed of up to 15 pages per minute and can print up to 1,500 pages per month.",
+      "Epson EcoTank ET-4760": " This all-in-one printer uses refillable ink tanks instead of cartridges, which can save money on ink. It features wireless connectivity, automatic two-sided printing, and a 2.4-inch color touchscreen display. It has a print speed of up to 15 pages per minute and can print up to 7,500 pages in color or 11,200 pages in black and white.",
+      "Brother MFC-L2750DW XL": " This all-in-one printer has a 2.7-inch color touchscreen display and features wireless connectivity, automatic two-sided printing, and a 50-sheet automatic document feeder. It has a print speed of up to 36 pages per minute and can print up to 7,500 pages per month.",
+      "HP Envy 6055e": " This all-in-one printer features wireless connectivity, automatic two-sided printing, and a 2.2-inch touchscreen display. It has a print speed of up to 10 pages per minute in black and white and up to 7 pages per minute in color.",
+      "Canon PIXMA TS9520": " This all-in-one printer can handle large format printing up to 11 x 17 inches and features wireless connectivity, automatic two-sided printing, and a 4.3-inch LCD touchscreen display. It has a print speed of up to 15 pages per minute in black and white and up to 10 pages per minute in color.",
+      "Epson SureColor P400": " This photo printer uses 8 UltraChrome HG2 ink cartridges to produce high-quality, professional-grade prints. It can print up to 13 inches wide and features wireless connectivity and a 2.7-inch color touchscreen display.",
+      "HP Tango X": " This wireless printer is designed to be used with a smartphone and features wireless connectivity, automatic two-sided printing, and a compact, portable design. It has a print speed of up to 11 pages per minute in black and white and up to 8 pages per minute in color.",
+      "Brother HL-L2350DW": " This compact laser printer features wireless connectivity, automatic two-sided printing, and a 250-sheet capacity paper tray. It has a print speed of up to 32 pages per minute and can print up to 15,000 pages per month.",
+      "Samsung Xpress M2020w": " This laser printer features automatic two-sided printing, wireless connectivity, a 150-sheet capacity paper tray, and a compact design. It has a print speed of up to 21 pages per minute and can print up to 10,000 pages per month."
+    },
+    "features": "Print speed, Connectivity, All features",
+    "price": "4000 - 50000",
+    "accessories": {
+      "Ink or toner cartridges": {
+        "HP 902XL High Yield Ink Cartridge ": " This ink cartridge is compatible with HP OfficeJet Pro 6968, 6978, 6979 printers. It has a high yield of up to 825 pages and features HP's proprietary ink technology for high-quality prints.",
+        "Canon PGI-280XL/CLI-281 Combo Pack ": " This combo pack includes five cartridges for use in Canon PIXMA TS9120, TS8120, TS8220, TS8320, and TS9100 printers. It features Canon's FINE (Full-photolithography Inkjet Nozzle Engineering) technology for precise and sharp prints.",
+        "Epson T288XL120 DURABrite Ultra Black High Capacity Cartridge ": " This ink cartridge is compatible with Epson Expression Home XP-330, XP-430, XP-434 printers. It uses Epson's DURABrite Ultra ink technology for fade-resistant and water-resistant prints.",
+        "Brother LC3013BK Ink Cartridge ": " This black ink cartridge is compatible with Brother MFC-J491DW, MFC-J497DW, MFC-J690DW, MFC-J895DW printers. It features Brother's Innobella ink technology for high-quality and vivid prints.",
+        "Lexmark 18C0031 Color Return Program Ink Cartridge ": " This color ink cartridge is compatible with various Lexmark printers. It features Lexmark's Vizix ink technology for accurate and consistent colors in prints. The cartridge is also part of the Lexmark Return Program, which allows for easy and eco-friendly cartridge recycling."
+      },
+      "Wireless adapters": {
+        "TP-Link Archer T9UH ": " Supports dual-band (2.4GHz/5GHz) Wi-Fi, 802.11ac standard, up to 1300Mbps wireless speeds, 2 external high gain antennas, USB 3.0 interface.",
+        "ASUS PCE-AC68 ": " Supports dual-band (2.4GHz/5GHz) Wi-Fi, 802.11ac standard, up to 1900Mbps wireless speeds, 3 external antennas, PCIe interface.",
+        "Netgear Nighthawk AC1900 ": " Supports dual-band (2.4GHz/5GHz) Wi-Fi, 802.11ac standard, up to 1900Mbps wireless speeds, high gain antennas, USB 3.0 interface.",
+        "Edimax EW-7833UAC ": " Supports dual-band (2.4GHz/5GHz) Wi-Fi, 802.11ac standard, up to 1750Mbps wireless speeds, high gain antennas, USB 3.0 interface.",
+        "Linksys WUSB6300 ": " Supports dual-band (2.4GHz/5GHz) Wi-Fi, 802.11ac standard, up to 867Mbps wireless speeds, selectable dual-band, internal antenna, USB 3.0 interface.",
+        "Printer Dust Cover": " This is a custom-fit dust cover designed to protect your printer from dust, dirt, and other particles. It is made of durable nylon material and features a Velcro closure for easy installation and removal."
+      }
+    }
+  },
+  "Laptop": {
+    "description": {
+      "MacBook Pro": " The MacBook Pro is a high-performance laptop from Apple. It features a stunning Retina display, up to 10th-generation Intel Core processors, and up to 16GB of memory. The laptop also comes with Touch ID for secure authentication and Apple's latest keyboard design for improved typing comfort.",
+      "Dell XPS 13": " The Dell XPS 13 is a popular laptop for its slim and lightweight design. It features a 13.4-inch display, 10th-generation Intel Core processors, and up to 16GB of memory. The laptop also comes with a high-quality webcam and a long battery life.",
+      "HP Spectre x360": " The HP Spectre x360 is a 2-in-1 laptop that can be used as a tablet or a traditional laptop. It features a 13.3-inch display, up to 10th-generation Intel Core processors, and up to 16GB of memory. The laptop also comes with a long battery life and a durable design.",
+      "Asus ROG Zephyrus G14": " The Asus ROG Zephyrus G14 is a gaming laptop with impressive specifications. It features a 14-inch display, AMD Ryzen 9 processor, and up to 32GB of memory. The laptop also comes with a dedicated Nvidia GeForce graphics card and a long battery life.",
+      "Lenovo ThinkPad X1 Carbon": " The Lenovo ThinkPad X1 Carbon is a business laptop known for its durability and security features. It features a 14-inch display, up to 10th-generation Intel Core processors, and up to 16GB of memory. The laptop also comes with a durable design, long battery life, and advanced security features.",
+      "Microsoft Surface Laptop 4": " The Microsoft Surface Laptop 4 is a sleek and stylish laptop from Microsoft. It features a 13.5-inch or 15-inch display, up to 11th-generation Intel Core processors, and up to 32GB of memory. The laptop also comes with a long battery life and a high-quality keyboard.",
+      "Acer Aspire 5": " The Acer Aspire 5 is an affordable laptop that still delivers impressive specifications. It features a 15.6-inch display, up to 11th-generation Intel Core processors, and up to 24GB of memory. The laptop also comes with a long battery life and a durable design.",
+      "Razer Blade 15": " The Razer Blade 15 is a gaming laptop that boasts impressive performance and a sleek design. It features a 15.6-inch display, up to 11th-generation Intel Core processors, and up to 32GB of memory. The laptop also comes with a dedicated Nvidia GeForce graphics card and a long battery life.",
+      "LG Gram 17": " The LG Gram 17 is a lightweight and portable laptop that's ideal for people on the go. It features a 17-inch display, up to 11th-generation Intel Core processors, and up to 16GB of memory. The laptop also comes with a long battery life and a durable design.",
+      "MSI GS66 Stealth": " The MSI GS66 Stealth is a gaming laptop with a slim and lightweight design. It features a 15.6-inch display, up to 11th-generation Intel Core processors, and up to 64GB of memory. The laptop also comes with a dedicated Nvidia GeForce graphics card and a long battery life."
+    },
+    "features": "RAM memory, processor, display, all features.",
+    "price": "25000 - 150000",
+    "accessories": {
+      "External Hard drives": {
+        "WD Black P10 Game Drive": " This is a high-performance external hard drive that is specifically designed for gamers. It comes with a durable and shock-resistant design, and has a storage capacity of up to 5TB. It also features fast transfer speeds and works seamlessly with most gaming consoles and PCs.",
+        "Seagate Backup Plus Slim": " This is a sleek and compact external hard drive that is available in a variety of storage capacities ranging from 1TB to 5TB. It comes with a USB 3.0 interface and provides fast data transfer speeds. It also includes a backup software that can be used to automatically back up your important files and documents.",
+        "Toshiba Canvio Basics": " This is a reliable and affordable external hard drive that is available in storage capacities ranging from 1TB to 4TB. It features a USB 3.0 interface and provides fast transfer speeds. It also comes with a sleek and compact design, making it easy to carry around.",
+        "Samsung T5 Portable SSD": " This is a high-speed external solid state drive (SSD) that provides lightning-fast transfer speeds of up to 540MB/s. It features a USB 3.1 interface and is available in storage capacities ranging from 250GB to 2TB. It also comes with a durable and shock-resistant design.",
+        "LaCie Rugged Mini": " This is a rugged and durable external hard drive that is designed to withstand extreme conditions. It features a USB 3.0 interface and is available in storage capacities ranging from 1TB to 5TB. It also comes with a shock-resistant design that can protect your data even if the drive is dropped or bumped."
+      },
+      "Webcam": {
+        "Logitech C920 HD Pro Webcam ": " This webcam offers full HD 1080p video calling and recording, and has a built-in dual stereo microphone with automatic noise reduction. It also has autofocus and automatic light correction to ensure clear and sharp video in various lighting conditions.",
+        "Microsoft LifeCam HD-3000 ": " This webcam provides 720p HD video calling and recording, and has a built-in noise-cancelling microphone for clear audio. It also features TrueColor technology for bright and colorful video in various lighting conditions.",
+        "Razer Kiyo Streaming Webcam ": " This webcam is designed for streaming and offers 1080p HD video at 30fps or 720p at 60fps. It also has a built-in ring light with adjustable brightness for even and flattering lighting.",
+        "Logitech Brio Ultra HD Pro Webcam ": " This high-end webcam offers 4K ultra HD video at 30fps or 1080p at 60fps, and has a 5X digital zoom for getting close to the action. It also features advanced optics, including RightLight 3 and HDR, for clear and detailed video in any lighting.",
+        "AUKEY FHD Webcam ": " This budget-friendly webcam offers 1080p full HD video calling and recording, and has a built-in stereo microphone with noise reduction. It also has a clip-on design that can be attached to various devices, including laptops, monitors, and tripods."
+      },
+      "Mouse": {
+        "Logitech MX Master 3": " This mouse features an ergonomic design, customizable buttons, and hyper-fast scrolling for efficient navigation. It also has advanced tracking technology for precise cursor control on any surface.",
+        "Microsoft Surface Precision Mouse": " Designed for productivity and comfort, this mouse has a sleek, modern design and customizable buttons. It features multi-device Bluetooth connectivity and Microsoft's proprietary BlueTrack technology for accurate tracking on any surface.",
+        "Razer DeathAdder Elite": " This gaming mouse has an ergonomic design, customizable buttons, and advanced optical sensor technology for precise cursor control. It also has customizable Chroma RGB lighting for a personalized touch.",
+        "Apple Magic Mouse 2": " This sleek, wireless mouse features Apple's Multi-Touch technology, allowing users to navigate with intuitive gestures. It also has a rechargeable battery and a smooth, seamless design that complements Apple products.",
+        "Logitech G Pro Wireless": " This lightweight, wireless gaming mouse has a sleek design and advanced sensor technology for precise cursor control. It also features customizable buttons and RGB lighting for a personalized touch. Its long battery life and fast charging capabilities make it a popular choice for gamers on-the-go."
+      },
+      "Keyboard": {
+        "Logitech K810 Wireless Bluetooth Illuminated Multi-Device Keyboard ": " This keyboard is compatible with multiple devices and features backlit keys for typing in low light environments.",
+        "Apple Magic Keyboard ": " This keyboard is designed for Apple devices and features a slim, low-profile design with a rechargeable battery.",
+        "Microsoft Sculpt Ergonomic Keyboard ": " This keyboard is designed to reduce strain on your hands and wrists and features an ergonomic design with a split keyboard layout and cushioned palm rest.",
+        "Razer BlackWidow Elite Mechanical Gaming Keyboard ": " This keyboard is designed for gaming and features mechanical switches, customizable RGB lighting, and a detachable wrist rest.",
+        "Logitech K380 Multi-Device Bluetooth Keyboard ": " This keyboard is designed to work with multiple devices and features a compact, lightweight design that is easy to take on-the-go."
+      },
+      "Headphone": {
+        "Bose QuietComfort 35 II ": " These wireless headphones have excellent noise-cancellation technology, a comfortable design, and a long battery life. They also have built-in Amazon Alexa and Google Assistant for hands-free control.",
+        "Sony WH-1000XM4 ": " Another pair of wireless headphones with great noise-cancellation technology, the Sony WH-1000XM4 also features touch controls, voice assistant integration, and a comfortable over-ear design.",
+        "Sennheiser Momentum 3 Wireless ": " These headphones have a sleek, modern design and high-quality audio performance. They also have active noise-cancellation and can be controlled via a companion app.",
+        "Apple AirPods Pro ": " These true wireless earbuds have active noise-cancellation, a comfortable in-ear design, and seamless integration with Apple devices. They also feature transparency mode, which allows you to hear your surroundings while still listening to music.",
+        "Jabra Elite 85h ": " These wireless headphones have excellent noise-cancellation and a long battery life. They also have a comfortable over-ear design and can be customized using a companion app."
+      },
+      "External monitor": {
+        "Dell Ultrasharp U2720Q": " This 27-inch 4K monitor boasts a color depth of 1.07 billion colors and supports HDR content. It also features a USB-C port for charging laptops and connecting peripherals.",
+        "LG 27UK850-W": " This 27-inch 4K monitor has a sleek design and supports HDR content. It also features a USB-C port and built-in speakers.",
+        "HP Pavilion 22CWA": " This 21.5-inch Full HD monitor offers a crisp display and a slim design. It also has an adjustable stand for comfortable viewing.",
+        "ASUS Designo MX27UCS": " This 27-inch 4K monitor has a stylish design and supports HDR content. It also features a USB-C port and built-in speakers.",
+        "Samsung U28E590D": " This 28-inch 4K monitor has a fast response time and offers a sharp display. It also has a built-in Picture-in-Picture feature for multitasking."
+      },
+      "USB Hub": {
+        "Anker 4-Port USB 3.0 Hub": " This USB hub features four USB 3.0 ports, providing high-speed data transfer and charging capabilities. It also has a compact design and is compatible with most operating systems.",
+        "Sabrent 7-Port USB 3.0 Hub": " This USB hub features seven USB 3.0 ports, allowing for multiple devices to be connected at once. It also has a built-in power switch and LED indicators for each port.",
+        "HooToo USB C Hub": " This USB hub features multiple USB 3.0 ports, an HDMI port, and an SD/TF card reader. It also has a sleek aluminum design and is compatible with USB-C laptops and devices.",
+        "AmazonBasics 4-Port USB 3.0 Hub": " This USB hub features four USB 3.0 ports, providing fast data transfer speeds and device charging capabilities. It also has a compact design and comes with a 1-year limited warranty.",
+        "Anker USB C Hub Adapter": " This USB hub features multiple USB 3.0 ports, an HDMI port, and a USB-C charging port. It also has a slim design and is compatible with most USB-C laptops and devices."
+      }
+    }
+  },
+  "SmartPhone": {
+    "description": {
+      "iPhone 13 Pro Max": " The iPhone 13 Pro Max features a 6.7-inch Super Retina XDR display, A15 Bionic chipset, 12 GB RAM, 5G connectivity, up to 1TB of storage, and a triple-camera system with Night mode.",
+      "Samsung Galaxy S21 Ultra 5G": " The Samsung Galaxy S21 Ultra 5G features a 6.8-inch Dynamic AMOLED 2X display, Exynos 2100/Snapdragon 888 chipset, 5G connectivity, up to 16GB of RAM, up to 512GB of storage, and a quad-camera system with 108MP sensor.",
+      "Google Pixel 6 Pro": " The Google Pixel 6 Pro features a 6.7-inch AMOLED display, Google Tensor chipset, 5G connectivity, up to 12GB of RAM, up to 512GB of storage, and a dual-camera system with a 50MP primary sensor.",
+      "OnePlus 9 Pro": " The OnePlus 9 Pro features a 6.7-inch AMOLED display, Snapdragon 888 chipset, 5G connectivity, up to 12GB of RAM, up to 256GB of storage, and a quad-camera system with 48MP primary sensor.",
+      "Xiaomi Mi 11 Ultra": " The Xiaomi Mi 11 Ultra features a 6.81-inch AMOLED display, Snapdragon 888 chipset, 5G connectivity, up to 12GB of RAM, up to 512GB of storage, and a triple-camera system with 50MP primary sensor.",
+      "Apple iPhone 13": " The iPhone 13 features a 6.1-inch Super Retina XDR display, A15 Bionic chip, 5G connectivity, up to 512GB of storage, and a dual-camera system with Night mode.",
+      "Samsung Galaxy Z Flip 3": " The Samsung Galaxy Z Flip 3 features a 6.7-inch foldable AMOLED display, Snapdragon 888 chipset, 5G connectivity, up to 8GB of RAM, up to 256GB of storage, and a dual-camera system with 12MP sensors.",
+      "Google Pixel 6": " The Google Pixel 6 features a 6.4-inch AMOLED display, Google Tensor chipset, 5G connectivity, up to 8GB of RAM, up to 256GB of storage, and a dual-camera system with a 50MP primary sensor.",
+      "Xiaomi Mi 11": " The Xiaomi Mi 11 features a 6.81-inch AMOLED display, Snapdragon 888 chipset, 5G connectivity, up to 12GB of RAM, up to 256GB of storage, and a triple-camera system with 108MP primary sensor.",
+      "OnePlus Nord 2": " The OnePlus Nord 2 features a 6.43-inch AMOLED display, MediaTek Dimensity 1200 chipset, 5G connectivity, up to 12GB of RAM, up to 256GB of storage, and a triple-camera system with 50MP primary sensor."
+    },
+    "features": "Chipset, display, RAM, storage, camera, network connectivity",
+    "price": "20000 - 80000",
+    "accessories": {
+      "Wireless Earphone": {
+        "Apple AirPods Pro": " These earphones have active noise cancellation, transparency mode, adaptive EQ, and sweat and water-resistant design.",
+        "Sony WF-1000XM4": " These earphones offer industry-leading noise cancellation, Hi-Res audio, Speak-to-Chat, and up to 8 hours of battery life.",
+        "Bose QuietComfort Earbuds": " These earphones provide noise cancellation, exceptional sound quality, and up to 6 hours of battery life. They also feature an IPX4 rating for water and sweat resistance.",
+        "Jabra Elite 85t": " These earphones come with advanced noise cancellation, customizable equalizer, and up to 5.5 hours of battery life. They also have a compact and comfortable design.",
+        "Samsung Galaxy Buds Pro": " These earphones feature active noise cancellation, 360 Audio, and IPX7 water and sweat resistance. They also have a long battery life of up to 18 hours with the charging case."
+      },
+      "Phone Charger": {
+        "Anker PowerPort III Nano": " This compact charger from Anker supports USB-C Power Delivery and can charge compatible smartphones up to 50% in just 30 minutes. It has a foldable plug for easy storage and is compatible with a wide range of devices.",
+        "Belkin USB-C PD GaN Wall Charger": " This charger from Belkin is designed with Gallium Nitride (GaN) technology, which makes it smaller and more efficient than traditional chargers. It supports USB-C Power Delivery and can charge compatible smartphones quickly and safely.",
+        "AUKEY USB C Charger": " This charger from AUKEY has two USB-C ports, one of which supports Power Delivery 3.0 for fast charging of compatible devices. It also has a foldable plug for easy storage and is compatible with a wide range of smartphones and other devices.",
+        "Nekteck USB-IF Certified USB Type C Wall Charger": " This charger from Nekteck is USB-IF certified, meaning it meets the standards set by the USB Implementers Forum for safety and compatibility. It supports USB-C Power Delivery and has a foldable plug for easy storage.",
+        "Samsung 25W USB-C Super Fast Charging Wall Charger": " This charger from Samsung supports Super Fast Charging for compatible smartphones and other devices. It has a compact design and a detachable USB-C to USB-C cable for convenience. It is compatible with a wide range of devices and also supports standard USB charging."
+      },
+      "Tripods": {
+        "Joby GripTight ONE Micro Stand ": " This lightweight and compact tripod is perfect for on-the-go use with your mobile device. It features a spring-loaded clamp that fits most smartphones and a 360-degree rotating head for easy adjustments.",
+        "Manfrotto PIXI Mini Tripod ": " This sturdy and versatile tripod is designed for use with smartphones and small cameras. It features a push-button locking mechanism for quick setup and a ball head for easy adjustments.",
+        "UBeesize Phone Tripod ": " This adjustable tripod is designed for use with smartphones and includes a wireless remote control for easy operation. It features flexible legs that can be wrapped around objects and a 360-degree rotating head for versatile shooting options.",
+        "KobraTech Mini Phone Tripod ": " This compact and lightweight tripod is perfect for use with smartphones and includes a wireless remote control for easy operation. It features a spring-loaded phone holder and adjustable legs for versatile shooting angles.",
+        "JOBY GorillaPod Mobile Rig ": " This flexible and adaptable tripod is designed for use with smartphones and features adjustable arms for attaching accessories such as microphones and lights. It features a durable construction and versatile shooting options with its flexible legs."
+      },
+      "Mobile holder": {
+        "WizGear Universal Air Vent Magnetic Phone Car Mount": " This car mount attaches to your car's air vent and uses a powerful magnet to hold your phone in place. It has a 360-degree rotation feature and is compatible with most smartphones.",
+        "iOttie Easy One Touch 4 Dash & Windshield Car Mount": " This car mount can be attached to your car's dashboard or windshield and has a telescopic arm that extends up to 8 inches. It can hold most smartphones and has a one-touch release button for easy removal.",
+        "Kenu Airframe+ Car Mount": " This car mount clips onto your car's air vent and has a spring-loaded grip that can hold most smartphones. It has a 360-degree rotation feature and is compact and portable.",
+        "Mpow Car Phone Mount": " This car mount can be attached to your car's dashboard or windshield and has a strong suction cup that can hold most smartphones. It has a 360-degree rotation feature and an adjustable arm for optimal viewing angles.",
+        "Spigen Kuel S40-2 Turbulence Car Mount": " This car mount attaches to your car's air vent and has a two-step locking system for secure placement. It can hold most smartphones and has a 360-degree rotation feature. It also has a sleek and stylish design."
+      },
+      "Selfie Stick": {
+        "Mpow Selfie Stick": " This selfie stick is compatible with most smartphones and has a 270-degree adjustable head for the perfect angle. It has a 31.5-inch maximum extension length and comes with a wireless remote control for easy photos.",
+        "Anker Bluetooth Selfie Stick": " This selfie stick has a sleek design and is compatible with most smartphones. It has a 29.7-inch maximum extension length and comes with a wireless remote control. The holder rotates 360 degrees for perfect photos and videos.",
+        "Fugetek FT-568 Professional Selfie Stick": " This selfie stick is designed for professional photography and is compatible with most smartphones. It has a 49-inch maximum extension length and comes with a wireless remote control. It also features a built-in LED flashlight for low-light environments.",
+        "Yoozon Selfie Stick Tripod": " This selfie stick can also be used as a tripod for stable photos and videos. It has a 51-inch maximum extension length and is compatible with most smartphones. It comes with a wireless remote control and a detachable Bluetooth remote for easy use.",
+        "BlitzWolf Selfie Stick Tripod": " This selfie stick can be used as a tripod and is compatible with most smartphones. It has a 27.5-inch maximum extension length and comes with a wireless remote control. The holder rotates 360 degrees for perfect photos and videos."
+      }
+    }
+  },
+  "TV": {
+    "description": {
+      "Samsung QN90A Neo QLED TV ": " This 4K TV features a 120Hz refresh rate, 65-inch screen, and Quantum Matrix technology for deep blacks and bright colors.",
+      "LG CX OLED TV ": " This 4K TV features a 120Hz refresh rate, 55-inch screen, and self-lit pixels for unparalleled contrast and color accuracy.",
+      "Sony A90J OLED TV ": " This 4K TV features a 120Hz refresh rate, 65-inch screen, and Cognitive Processor XR for advanced picture quality and sound.",
+      "Vizio M-Series Quantum TV ": " This 4K TV features a 60Hz refresh rate, 55-inch screen, and Quantum Color technology for enhanced color accuracy.",
+      "TCL 6-Series QLED TV ": " This 4K TV features a 120Hz refresh rate, 65-inch screen, and Mini-LED backlighting for deep blacks and bright highlights.",
+      "Hisense H8G Quantum Series TV ": " This 4K TV features a 60Hz refresh rate, 55-inch screen, and Full Array Local Dimming for enhanced contrast and black levels.",
+      "Philips 9000 Series OLED TV ": " This 4K TV features a 60Hz refresh rate, 65-inch screen, and Ambilight technology for immersive viewing experiences.",
+      "Panasonic HZ2000 OLED TV ": " This 4K TV features a 120Hz refresh rate, 55-inch screen, and HCX Pro Intelligent Processor for advanced picture quality.",
+      "Sharp Aquos R3 ": " This 4K TV features a 120Hz refresh rate, 70-inch screen, and 5G connectivity for streaming content.",
+      "Skyworth Q71 Series TV ": " This 4K TV features a 60Hz refresh rate, 65-inch screen, and Dolby Vision and Atmos for enhanced audio and visual experiences."
+    },
+    "features": "refresh rate, screen size, all features",
+    "price": "15000 - 120000",
+    "accessories": {
+      "Soundbar": {
+        "Sonos Beam": " The Sonos Beam is a compact soundbar that provides excellent sound quality and features Amazon Alexa voice control built-in. It is easy to set up and can be controlled through the Sonos app, making it a great option for smart home enthusiasts.",
+        "Bose Soundbar 700": " The Bose Soundbar 700 is a high-end soundbar that provides immersive sound with its eight built-in speakers. It also includes Amazon Alexa voice control and supports Wi-Fi and Bluetooth connectivity.",
+        "Samsung HW-Q60R": " The Samsung HW-Q60R is a mid-range soundbar that offers powerful sound and supports both Dolby Atmos and DTS",
+        "Vizio SB36512-F6": " The Vizio SB36512-F6 is a budget-friendly soundbar that offers excellent value for its price. It features Dolby Atmos support, a wireless subwoofer, and includes a remote control with an LCD display for easy use.",
+        "Sony HT-ST5000": " The Sony HT-ST5000 is a high-end soundbar that features 7.1.2 channel audio, which provides a truly immersive audio experience. It also includes Google Chromecast built-in and supports both Bluetooth and Wi-Fi connectivity."
+      },
+      "TV Stand": {
+        "PERLESMITH Universal TV Stand": " This stand fits most TVs from 37 to 75 inches and can support up to 110 pounds. It has a tempered glass base, adjustable height, and cable management system.",
+        "FITUEYES Universal TV Stand": " This stand fits most TVs from 32 to 65 inches and can support up to 110 pounds. It has a tempered glass base, adjustable height, and cable management system.",
+        "WALI Universal TV Stand": " This stand fits most TVs from 22 to 65 inches and can support up to 110 pounds. It has a tempered glass base, adjustable height, and cable management system.",
+        "VIVO Universal TV Stand": " This stand fits most TVs from 22 to 65 inches and can support up to 110 pounds. It has a tempered glass base, adjustable height, and cable management system.",
+        "Ameriwood Home Carson TV Stand": " This stand has a modern design and can accommodate TVs up to 70 inches and 135 pounds. It has 2 open shelves and 2 cabinets for storage."
+      },
+      "Extension Cord": {
+        "AmazonBasics Indoor Extension Cord ": " This is a 6-foot extension cord that can handle up to 13 amps and is suitable for indoor use. It has a 3-prong grounded plug and 3-prong outlets.",
+        "Woods Outdoor Extension Cord ": " This is a 25-foot extension cord that is suitable for outdoor use. It has a 3-prong grounded plug and 3-prong outlets, and is designed to resist moisture, abrasion, and exposure to sunlight.",
+        "Tripp Lite Heavy Duty Power Extension Cord ": " This is a 10-foot extension cord that can handle up to 15 amps and is suitable for indoor use. It has a 3-prong grounded plug and 3-prong outlets, and is designed to resist wear and tear.",
+        "GE Designer Extension Cord ": " This is a 8-foot extension cord that can handle up to 13 amps and is suitable for indoor use. It has a 3-prong grounded plug and 3-prong outlets, and features a flat plug that allows furniture to be placed closer to the wall.",
+        "Maximm Cable 3 Foot 360\u00b0 Rotating Flat Plug Extension Cord ": " This is a 3-foot extension cord that can handle up to 13 amps and is suitable for indoor use. It has a 3-prong grounded plug and 3-prong outlets, and features a flat plug that can rotate 360 degrees to fit in tight spaces."
+      },
+      "Gaming Controller": {
+        "Xbox Wireless Controller": " This is the official controller for Xbox consoles and Windows PCs, featuring a comfortable design, precise controls, and customizable button mapping.",
+        "DualShock 4 Wireless Controller": " This is the official controller for PlayStation consoles and Windows PCs, featuring a touchpad, motion sensors, and a built-in speaker.",
+        "Nintendo Switch Pro Controller": " This is the official controller for the Nintendo Switch console, featuring a classic design, motion controls, and an HD rumble feature.",
+        "Steam Controller": " This is a unique controller designed specifically for PC gaming on the Steam platform, featuring customizable touchpads, gyroscopic controls, and haptic feedback.",
+        "Logitech Gamepad F310": " This is a versatile controller compatible with both Windows PCs and Android devices, featuring console-style controls, programmable buttons, and a comfortable grip."
+      }
+    }
+  }
+}
